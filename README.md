@@ -19,8 +19,6 @@ pima-diabetes-prediction/
 │   └── 05_Interpretation.ipynb# SHAP & confusion matrix
 │
 ├── scripts/               # Deployment demos
-│   ├── app.py             # Streamlit dashboard
-│   └── predict.py         # Flask prediction endpoint
 │
 ├── requirements.txt       # Python dependencies
 └── README.md              # This file
