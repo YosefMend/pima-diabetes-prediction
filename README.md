@@ -77,7 +77,5 @@ See `requirements.txt` for exact versions.
 
 * Integrate feature engineering (interactions, polynomials)
 * Explore gradient-boosted trees and stacking ensembles
-* Dockerize Streamlit/Flask for deployment
-* Add CI/CD, testing, and code linting
 
 ---
